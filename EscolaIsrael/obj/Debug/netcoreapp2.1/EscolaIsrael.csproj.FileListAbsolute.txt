@@ -1,0 +1,94 @@
+C:\Users\Israel Damasceno\source\repos\EscolaIsrael\EscolaIsrael\obj\Debug\netcoreapp2.1\EscolaIsrael.csprojAssemblyReference.cache
+C:\Users\Israel Damasceno\source\repos\EscolaIsrael\EscolaIsrael\obj\Debug\netcoreapp2.1\EscolaIsrael.csproj.CoreCompileInputs.cache
+C:\Users\Israel Damasceno\source\repos\EscolaIsrael\EscolaIsrael\obj\Debug\netcoreapp2.1\EscolaIsrael.RazorAssemblyInfo.cache
+C:\Users\Israel Damasceno\source\repos\EscolaIsrael\EscolaIsrael\obj\Debug\netcoreapp2.1\EscolaIsrael.RazorAssemblyInfo.cs
+C:\Users\Israel Damasceno\source\repos\EscolaIsrael\EscolaIsrael\obj\Debug\netcoreapp2.1\EscolaIsrael.AssemblyInfoInputs.cache
+C:\Users\Israel Damasceno\source\repos\EscolaIsrael\EscolaIsrael\obj\Debug\netcoreapp2.1\EscolaIsrael.AssemblyInfo.cs
+C:\Users\Israel Damasceno\source\repos\EscolaIsrael\EscolaIsrael\bin\Debug\netcoreapp2.1\EscolaIsrael.deps.json
+C:\Users\Israel Damasceno\source\repos\EscolaIsrael\EscolaIsrael\bin\Debug\netcoreapp2.1\EscolaIsrael.runtimeconfig.json
+C:\Users\Israel Damasceno\source\repos\EscolaIsrael\EscolaIsrael\bin\Debug\netcoreapp2.1\EscolaIsrael.runtimeconfig.dev.json
+C:\Users\Israel Damasceno\source\repos\EscolaIsrael\EscolaIsrael\bin\Debug\netcoreapp2.1\EscolaIsrael.dll
+C:\Users\Israel Damasceno\source\repos\EscolaIsrael\EscolaIsrael\bin\Debug\netcoreapp2.1\EscolaIsrael.pdb
+C:\Users\Israel Damasceno\source\repos\EscolaIsrael\EscolaIsrael\bin\Debug\netcoreapp2.1\EscolaIsrael.Views.dll
+C:\Users\Israel Damasceno\source\repos\EscolaIsrael\EscolaIsrael\bin\Debug\netcoreapp2.1\EscolaIsrael.Views.pdb
+C:\Users\Israel Damasceno\source\repos\EscolaIsrael\EscolaIsrael\obj\Debug\netcoreapp2.1\EscolaIsrael.TagHelpers.input.cache
+C:\Users\Israel Damasceno\source\repos\EscolaIsrael\EscolaIsrael\obj\Debug\netcoreapp2.1\EscolaIsrael.TagHelpers.output.cache
+C:\Users\Israel Damasceno\source\repos\EscolaIsrael\EscolaIsrael\obj\Debug\netcoreapp2.1\EscolaIsrael.RazorCoreGenerate.cache
+C:\Users\Israel Damasceno\source\repos\EscolaIsrael\EscolaIsrael\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Israel Damasceno\source\repos\EscolaIsrael\EscolaIsrael\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Israel Damasceno\source\repos\EscolaIsrael\EscolaIsrael\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Israel Damasceno\source\repos\EscolaIsrael\EscolaIsrael\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Israel Damasceno\source\repos\EscolaIsrael\EscolaIsrael\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Israel Damasceno\source\repos\EscolaIsrael\EscolaIsrael\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Israel Damasceno\source\repos\EscolaIsrael\EscolaIsrael\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Israel Damasceno\source\repos\EscolaIsrael\EscolaIsrael\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Israel Damasceno\source\repos\EscolaIsrael\EscolaIsrael\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Israel Damasceno\source\repos\EscolaIsrael\EscolaIsrael\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Israel Damasceno\source\repos\EscolaIsrael\EscolaIsrael\obj\Debug\netcoreapp2.1\EscolaIsrael.RazorTargetAssemblyInfo.cache
+C:\Users\Israel Damasceno\source\repos\EscolaIsrael\EscolaIsrael\obj\Debug\netcoreapp2.1\EscolaIsrael.RazorTargetAssemblyInfo.cs
+C:\Users\Israel Damasceno\source\repos\EscolaIsrael\EscolaIsrael\obj\Debug\netcoreapp2.1\EscolaIsrael.Views.pdb
+C:\Users\Israel Damasceno\source\repos\EscolaIsrael\EscolaIsrael\obj\Debug\netcoreapp2.1\EscolaIsrael.dll
+C:\Users\Israel Damasceno\source\repos\EscolaIsrael\EscolaIsrael\obj\Debug\netcoreapp2.1\EscolaIsrael.pdb
+C:\Users\Israel Damasceno\source\repos\EscolaIsrael\EscolaIsrael\obj\Debug\netcoreapp2.1\EscolaIsrael.csproj.CopyComplete
+C:\Users\Israel Damasceno\source\repos\EscolaIsrael\EscolaIsrael\obj\Debug\netcoreapp2.1\Razor\Views\Curso\Index.g.cshtml.cs
+C:\Users\Israel Damasceno\source\repos\EscolaIsrael\EscolaIsrael\obj\Debug\netcoreapp2.1\Razor\Views\Curso\Create.g.cshtml.cs
+C:\Users\Israel Damasceno\source\repos\EscolaIsrael\EscolaIsrael\obj\Debug\netcoreapp2.1\Razor\Views\Curso\Edit.g.cshtml.cs
+C:\Users\Israel Damasceno\source\repos\EscolaIsrael\EscolaIsrael\obj\Debug\netcoreapp2.1\Razor\Views\Curso\Details.g.cshtml.cs
+C:\Users\Israel Damasceno\source\repos\EscolaIsrael\EscolaIsrael\obj\Debug\netcoreapp2.1\Razor\Views\Curso\Delete.g.cshtml.cs
+C:\Users\Israel Damasceno\source\repos\EscolaIsrael\EscolaIsrael\obj\Debug\netcoreapp2.1\Razor\Views\Aluno\Index.g.cshtml.cs
+C:\Users\Israel Damasceno\source\repos\EscolaIsrael\EscolaIsrael\obj\Debug\netcoreapp2.1\Razor\Views\Aluno\Edit.g.cshtml.cs
+C:\Users\Israel Damasceno\source\repos\EscolaIsrael\EscolaIsrael\obj\Debug\netcoreapp2.1\Razor\Views\Aluno\Details.g.cshtml.cs
+C:\Users\Israel Damasceno\source\repos\EscolaIsrael\EscolaIsrael\obj\Debug\netcoreapp2.1\Razor\Views\Aluno\Delete.g.cshtml.cs
+C:\Users\Israel Damasceno\source\repos\EscolaIsrael\EscolaIsrael\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Index.g.cshtml.cs
+C:\Users\Israel Damasceno\source\repos\EscolaIsrael\EscolaIsrael\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Create.g.cshtml.cs
+C:\Users\Israel Damasceno\source\repos\EscolaIsrael\EscolaIsrael\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Edit.g.cshtml.cs
+C:\Users\Israel Damasceno\source\repos\EscolaIsrael\EscolaIsrael\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Details.g.cshtml.cs
+C:\Users\Israel Damasceno\source\repos\EscolaIsrael\EscolaIsrael\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Delete.g.cshtml.cs
+C:\Users\Israel Damasceno\source\repos\EscolaIsrael\EscolaIsrael\obj\Debug\netcoreapp2.1\Razor\Views\Aluno\Create.g.cshtml.cs
+C:\Users\Israel Damasceno\Desktop\Exemplo c#\AspNet core razor mvc f core\EscolaIsrael\EscolaIsrael\bin\Debug\netcoreapp2.1\EscolaIsrael.deps.json
+C:\Users\Israel Damasceno\Desktop\Exemplo c#\AspNet core razor mvc f core\EscolaIsrael\EscolaIsrael\bin\Debug\netcoreapp2.1\EscolaIsrael.runtimeconfig.json
+C:\Users\Israel Damasceno\Desktop\Exemplo c#\AspNet core razor mvc f core\EscolaIsrael\EscolaIsrael\bin\Debug\netcoreapp2.1\EscolaIsrael.runtimeconfig.dev.json
+C:\Users\Israel Damasceno\Desktop\Exemplo c#\AspNet core razor mvc f core\EscolaIsrael\EscolaIsrael\bin\Debug\netcoreapp2.1\EscolaIsrael.dll
+C:\Users\Israel Damasceno\Desktop\Exemplo c#\AspNet core razor mvc f core\EscolaIsrael\EscolaIsrael\bin\Debug\netcoreapp2.1\EscolaIsrael.pdb
+C:\Users\Israel Damasceno\Desktop\Exemplo c#\AspNet core razor mvc f core\EscolaIsrael\EscolaIsrael\bin\Debug\netcoreapp2.1\EscolaIsrael.Views.dll
+C:\Users\Israel Damasceno\Desktop\Exemplo c#\AspNet core razor mvc f core\EscolaIsrael\EscolaIsrael\bin\Debug\netcoreapp2.1\EscolaIsrael.Views.pdb
+C:\Users\Israel Damasceno\Desktop\Exemplo c#\AspNet core razor mvc f core\EscolaIsrael\EscolaIsrael\obj\Debug\netcoreapp2.1\EscolaIsrael.csprojAssemblyReference.cache
+C:\Users\Israel Damasceno\Desktop\Exemplo c#\AspNet core razor mvc f core\EscolaIsrael\EscolaIsrael\obj\Debug\netcoreapp2.1\EscolaIsrael.csproj.CoreCompileInputs.cache
+C:\Users\Israel Damasceno\Desktop\Exemplo c#\AspNet core razor mvc f core\EscolaIsrael\EscolaIsrael\obj\Debug\netcoreapp2.1\EscolaIsrael.RazorAssemblyInfo.cache
+C:\Users\Israel Damasceno\Desktop\Exemplo c#\AspNet core razor mvc f core\EscolaIsrael\EscolaIsrael\obj\Debug\netcoreapp2.1\EscolaIsrael.RazorAssemblyInfo.cs
+C:\Users\Israel Damasceno\Desktop\Exemplo c#\AspNet core razor mvc f core\EscolaIsrael\EscolaIsrael\obj\Debug\netcoreapp2.1\EscolaIsrael.AssemblyInfoInputs.cache
+C:\Users\Israel Damasceno\Desktop\Exemplo c#\AspNet core razor mvc f core\EscolaIsrael\EscolaIsrael\obj\Debug\netcoreapp2.1\EscolaIsrael.AssemblyInfo.cs
+C:\Users\Israel Damasceno\Desktop\Exemplo c#\AspNet core razor mvc f core\EscolaIsrael\EscolaIsrael\obj\Debug\netcoreapp2.1\EscolaIsrael.TagHelpers.input.cache
+C:\Users\Israel Damasceno\Desktop\Exemplo c#\AspNet core razor mvc f core\EscolaIsrael\EscolaIsrael\obj\Debug\netcoreapp2.1\EscolaIsrael.TagHelpers.output.cache
+C:\Users\Israel Damasceno\Desktop\Exemplo c#\AspNet core razor mvc f core\EscolaIsrael\EscolaIsrael\obj\Debug\netcoreapp2.1\EscolaIsrael.RazorCoreGenerate.cache
+C:\Users\Israel Damasceno\Desktop\Exemplo c#\AspNet core razor mvc f core\EscolaIsrael\EscolaIsrael\obj\Debug\netcoreapp2.1\Razor\Views\Aluno\Create.g.cshtml.cs
+C:\Users\Israel Damasceno\Desktop\Exemplo c#\AspNet core razor mvc f core\EscolaIsrael\EscolaIsrael\obj\Debug\netcoreapp2.1\Razor\Views\Aluno\Delete.g.cshtml.cs
+C:\Users\Israel Damasceno\Desktop\Exemplo c#\AspNet core razor mvc f core\EscolaIsrael\EscolaIsrael\obj\Debug\netcoreapp2.1\Razor\Views\Aluno\Details.g.cshtml.cs
+C:\Users\Israel Damasceno\Desktop\Exemplo c#\AspNet core razor mvc f core\EscolaIsrael\EscolaIsrael\obj\Debug\netcoreapp2.1\Razor\Views\Aluno\Edit.g.cshtml.cs
+C:\Users\Israel Damasceno\Desktop\Exemplo c#\AspNet core razor mvc f core\EscolaIsrael\EscolaIsrael\obj\Debug\netcoreapp2.1\Razor\Views\Aluno\Index.g.cshtml.cs
+C:\Users\Israel Damasceno\Desktop\Exemplo c#\AspNet core razor mvc f core\EscolaIsrael\EscolaIsrael\obj\Debug\netcoreapp2.1\Razor\Views\Curso\Create.g.cshtml.cs
+C:\Users\Israel Damasceno\Desktop\Exemplo c#\AspNet core razor mvc f core\EscolaIsrael\EscolaIsrael\obj\Debug\netcoreapp2.1\Razor\Views\Curso\Delete.g.cshtml.cs
+C:\Users\Israel Damasceno\Desktop\Exemplo c#\AspNet core razor mvc f core\EscolaIsrael\EscolaIsrael\obj\Debug\netcoreapp2.1\Razor\Views\Curso\Details.g.cshtml.cs
+C:\Users\Israel Damasceno\Desktop\Exemplo c#\AspNet core razor mvc f core\EscolaIsrael\EscolaIsrael\obj\Debug\netcoreapp2.1\Razor\Views\Curso\Edit.g.cshtml.cs
+C:\Users\Israel Damasceno\Desktop\Exemplo c#\AspNet core razor mvc f core\EscolaIsrael\EscolaIsrael\obj\Debug\netcoreapp2.1\Razor\Views\Curso\Index.g.cshtml.cs
+C:\Users\Israel Damasceno\Desktop\Exemplo c#\AspNet core razor mvc f core\EscolaIsrael\EscolaIsrael\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Create.g.cshtml.cs
+C:\Users\Israel Damasceno\Desktop\Exemplo c#\AspNet core razor mvc f core\EscolaIsrael\EscolaIsrael\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Delete.g.cshtml.cs
+C:\Users\Israel Damasceno\Desktop\Exemplo c#\AspNet core razor mvc f core\EscolaIsrael\EscolaIsrael\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Details.g.cshtml.cs
+C:\Users\Israel Damasceno\Desktop\Exemplo c#\AspNet core razor mvc f core\EscolaIsrael\EscolaIsrael\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Edit.g.cshtml.cs
+C:\Users\Israel Damasceno\Desktop\Exemplo c#\AspNet core razor mvc f core\EscolaIsrael\EscolaIsrael\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Index.g.cshtml.cs
+C:\Users\Israel Damasceno\Desktop\Exemplo c#\AspNet core razor mvc f core\EscolaIsrael\EscolaIsrael\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Israel Damasceno\Desktop\Exemplo c#\AspNet core razor mvc f core\EscolaIsrael\EscolaIsrael\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Israel Damasceno\Desktop\Exemplo c#\AspNet core razor mvc f core\EscolaIsrael\EscolaIsrael\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Israel Damasceno\Desktop\Exemplo c#\AspNet core razor mvc f core\EscolaIsrael\EscolaIsrael\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Israel Damasceno\Desktop\Exemplo c#\AspNet core razor mvc f core\EscolaIsrael\EscolaIsrael\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Israel Damasceno\Desktop\Exemplo c#\AspNet core razor mvc f core\EscolaIsrael\EscolaIsrael\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Israel Damasceno\Desktop\Exemplo c#\AspNet core razor mvc f core\EscolaIsrael\EscolaIsrael\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Israel Damasceno\Desktop\Exemplo c#\AspNet core razor mvc f core\EscolaIsrael\EscolaIsrael\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Israel Damasceno\Desktop\Exemplo c#\AspNet core razor mvc f core\EscolaIsrael\EscolaIsrael\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Israel Damasceno\Desktop\Exemplo c#\AspNet core razor mvc f core\EscolaIsrael\EscolaIsrael\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Israel Damasceno\Desktop\Exemplo c#\AspNet core razor mvc f core\EscolaIsrael\EscolaIsrael\obj\Debug\netcoreapp2.1\EscolaIsrael.RazorTargetAssemblyInfo.cache
+C:\Users\Israel Damasceno\Desktop\Exemplo c#\AspNet core razor mvc f core\EscolaIsrael\EscolaIsrael\obj\Debug\netcoreapp2.1\EscolaIsrael.RazorTargetAssemblyInfo.cs
+C:\Users\Israel Damasceno\Desktop\Exemplo c#\AspNet core razor mvc f core\EscolaIsrael\EscolaIsrael\obj\Debug\netcoreapp2.1\EscolaIsrael.Views.pdb
+C:\Users\Israel Damasceno\Desktop\Exemplo c#\AspNet core razor mvc f core\EscolaIsrael\EscolaIsrael\obj\Debug\netcoreapp2.1\EscolaIsrael.dll
+C:\Users\Israel Damasceno\Desktop\Exemplo c#\AspNet core razor mvc f core\EscolaIsrael\EscolaIsrael\obj\Debug\netcoreapp2.1\EscolaIsrael.pdb
+C:\Users\Israel Damasceno\Desktop\Exemplo c#\AspNet core razor mvc f core\EscolaIsrael\EscolaIsrael\obj\Debug\netcoreapp2.1\EscolaIsrael.csproj.CopyComplete
